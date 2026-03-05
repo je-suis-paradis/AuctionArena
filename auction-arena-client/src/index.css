@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Space+Mono:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #73D9D1;
+  color: #211857;
+  font-family: 'Space Mono', monospace;
+  min-height: 100vh;
+}
+
+h1{
+  font-family: 'Boogalo', cursive;
+}
+
+h2{
+  font-family: 'Space Mono', monospace; 
+  font-weight: 700;
+  font-style: italic;
+}
+
+h3 {
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+}
+

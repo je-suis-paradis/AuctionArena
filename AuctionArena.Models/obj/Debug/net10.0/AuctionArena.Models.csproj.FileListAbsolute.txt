@@ -1,0 +1,11 @@
+/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/bin/Debug/net10.0/AuctionArena.Models.deps.json
+/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/bin/Debug/net10.0/AuctionArena.Models.dll
+/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/bin/Debug/net10.0/AuctionArena.Models.pdb
+/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.AssemblyInfoInputs.cache
+/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.AssemblyInfo.cs
+/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.csproj.CoreCompileInputs.cache
+/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.dll
+/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/refint/AuctionArena.Models.dll
+/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.pdb
+/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/ref/AuctionArena.Models.dll
