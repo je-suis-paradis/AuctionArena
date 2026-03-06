@@ -15,3 +15,21 @@
 /Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/AuctionArena.Data.pdb
 /Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/AuctionArena.Data.genruntimeconfig.cache
 /Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/ref/AuctionArena.Data.dll
+/Users/pontus/AuctionArena/AuctionArena.Data/bin/Debug/net10.0/AuctionArena.Data.deps.json
+/Users/pontus/AuctionArena/AuctionArena.Data/bin/Debug/net10.0/AuctionArena.Data.runtimeconfig.json
+/Users/pontus/AuctionArena/AuctionArena.Data/bin/Debug/net10.0/AuctionArena.Data.dll
+/Users/pontus/AuctionArena/AuctionArena.Data/bin/Debug/net10.0/AuctionArena.Data.pdb
+/Users/pontus/AuctionArena/AuctionArena.Data/bin/Debug/net10.0/AuctionArena.Models.dll
+/Users/pontus/AuctionArena/AuctionArena.Data/bin/Debug/net10.0/AuctionArena.Models.pdb
+/Users/pontus/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/AuctionArena.Data.csproj.AssemblyReference.cache
+/Users/pontus/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/AuctionArena.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pontus/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/AuctionArena.Data.AssemblyInfoInputs.cache
+/Users/pontus/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/AuctionArena.Data.AssemblyInfo.cs
+/Users/pontus/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/AuctionArena.Data.csproj.CoreCompileInputs.cache
+/Users/pontus/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/AuctionArena.Data.sourcelink.json
+/Users/pontus/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/AuctionA.063A3718.Up2Date
+/Users/pontus/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/AuctionArena.Data.dll
+/Users/pontus/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/refint/AuctionArena.Data.dll
+/Users/pontus/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/AuctionArena.Data.pdb
+/Users/pontus/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/AuctionArena.Data.genruntimeconfig.cache
+/Users/pontus/AuctionArena/AuctionArena.Data/obj/Debug/net10.0/ref/AuctionArena.Data.dll

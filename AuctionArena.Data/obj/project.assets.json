@@ -3674,19 +3674,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/p-nut./.nuget/packages/": {}
+    "/Users/pontus/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Data/AuctionArena.Data.csproj",
+      "projectUniqueName": "/Users/pontus/AuctionArena/AuctionArena.Data/AuctionArena.Data.csproj",
       "projectName": "AuctionArena.Data",
-      "projectPath": "/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Data/AuctionArena.Data.csproj",
-      "packagesPath": "/Users/p-nut./.nuget/packages/",
-      "outputPath": "/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Data/obj/",
+      "projectPath": "/Users/pontus/AuctionArena/AuctionArena.Data/AuctionArena.Data.csproj",
+      "packagesPath": "/Users/pontus/.nuget/packages/",
+      "outputPath": "/Users/pontus/AuctionArena/AuctionArena.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/p-nut./.nuget/NuGet/NuGet.Config"
+        "/Users/pontus/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -3698,8 +3698,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/AuctionArena.Models.csproj": {
-              "projectPath": "/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/AuctionArena.Models.csproj"
+            "/Users/pontus/AuctionArena/AuctionArena.Models/AuctionArena.Models.csproj": {
+              "projectPath": "/Users/pontus/AuctionArena/AuctionArena.Models/AuctionArena.Models.csproj"
             }
           }
         }
@@ -3747,7 +3747,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

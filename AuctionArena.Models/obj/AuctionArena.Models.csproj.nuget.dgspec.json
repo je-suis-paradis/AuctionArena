@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/AuctionArena.Models.csproj": {}
+    "/Users/pontus/AuctionArena/AuctionArena.Models/AuctionArena.Models.csproj": {}
   },
   "projects": {
-    "/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/AuctionArena.Models.csproj": {
+    "/Users/pontus/AuctionArena/AuctionArena.Models/AuctionArena.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/AuctionArena.Models.csproj",
+        "projectUniqueName": "/Users/pontus/AuctionArena/AuctionArena.Models/AuctionArena.Models.csproj",
         "projectName": "AuctionArena.Models",
-        "projectPath": "/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/AuctionArena.Models.csproj",
-        "packagesPath": "/Users/p-nut./.nuget/packages/",
-        "outputPath": "/Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/obj/",
+        "projectPath": "/Users/pontus/AuctionArena/AuctionArena.Models/AuctionArena.Models.csproj",
+        "packagesPath": "/Users/pontus/.nuget/packages/",
+        "outputPath": "/Users/pontus/AuctionArena/AuctionArena.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/p-nut./.nuget/NuGet/NuGet.Config"
+          "/Users/pontus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

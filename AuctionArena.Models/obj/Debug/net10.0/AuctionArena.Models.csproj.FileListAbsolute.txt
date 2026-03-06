@@ -9,3 +9,15 @@
 /Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/refint/AuctionArena.Models.dll
 /Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.pdb
 /Users/p-nut./Desktop/transport-files/001. code/iths4OneDrive/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/ref/AuctionArena.Models.dll
+/Users/pontus/AuctionArena/AuctionArena.Models/bin/Debug/net10.0/AuctionArena.Models.deps.json
+/Users/pontus/AuctionArena/AuctionArena.Models/bin/Debug/net10.0/AuctionArena.Models.dll
+/Users/pontus/AuctionArena/AuctionArena.Models/bin/Debug/net10.0/AuctionArena.Models.pdb
+/Users/pontus/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pontus/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.AssemblyInfoInputs.cache
+/Users/pontus/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.AssemblyInfo.cs
+/Users/pontus/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.csproj.CoreCompileInputs.cache
+/Users/pontus/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.sourcelink.json
+/Users/pontus/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.dll
+/Users/pontus/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/refint/AuctionArena.Models.dll
+/Users/pontus/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/AuctionArena.Models.pdb
+/Users/pontus/AuctionArena/AuctionArena.Models/obj/Debug/net10.0/ref/AuctionArena.Models.dll
