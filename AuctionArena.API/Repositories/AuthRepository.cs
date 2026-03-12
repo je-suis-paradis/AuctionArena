@@ -1,13 +1,3 @@
-using AuctionArena.Data;
-using AuctionArena.Models;
-using AuctionArena.Models.DTOs;
-using AuctionArena.API.Interfaces;
-using Microsoft.EntityFrameworkCore;
-using AuctionArena.API.Services;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.IdentityModel.Tokens;
-using System.Text;
-
 namespace AuctionArena.API.Repositories;
 
 public class AuthRepository : IAuthRepository

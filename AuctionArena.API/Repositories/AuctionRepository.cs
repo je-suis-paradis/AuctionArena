@@ -1,9 +1,3 @@
-using AuctionArena.Data;
-using AuctionArena.Models;
-using AuctionArena.Models.DTOs;
-using AuctionArena.API.Interfaces;
-using Microsoft.EntityFrameworkCore;
-
 namespace AuctionArena.API.Repositories;
 
 public class AuctionRepository : IAuctionRepository

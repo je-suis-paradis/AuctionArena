@@ -1,5 +1,3 @@
-using AuctionArena.Models.DTOs;
-
 namespace AuctionAren.API.Interface;
 
 public interface IAuthRepository

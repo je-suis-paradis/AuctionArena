@@ -1,10 +1,3 @@
-using AuctionArena.API;
-using AuctionArena.Models;
-using AuctionArena.API.Services;
-using AuctionArena.Data;
-using System.Text;
-using AuctionArena.API.Interfaces;
-using AuctionArena.API.Repositories;
 AuctionArena.Models.DTOs;
 
 
