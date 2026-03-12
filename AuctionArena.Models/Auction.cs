@@ -10,11 +10,9 @@ namespace AuctionArena.Models
         public DateTime EndDate { get; set; }
         public bool IsActive { get; set; } = true;
 
-        // Who created this auction?
         public int UserId { get; set; }
         public User User { get; set; } = null!;
 
-        // All bids placed on this auction
         public ICollection<Bid> Bids { get; set; } = new List<Bid>();
     }
 }

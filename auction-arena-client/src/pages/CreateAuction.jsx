@@ -26,6 +26,8 @@ const CreateAuction = () => {
             const res = await createAuction({
                 ...form,
                 startingBid: parseFloat(form.startingBid),
+                startDate: new Date(form.startDate).toISOString(),
+                endDate: new Date(form.endDate).toISOString(),
             });
             navigate(`/auction/${res.data.id}`);
         } catch {
